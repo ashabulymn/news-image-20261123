@@ -1,1 +1,60 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJTdW0gdXAgMjMgTm92ZW1iZXIgMjAyNidzIHdvcmxkIG5ld3MgaW4gb25lIGltYWdlLgoKRW50cnkgcHJvZ3JhbSBmb3IgdGhlIG1ha2UuZnVuIGJvdW50eSAibmV3cy1pbWFnZS0yMDI2MTEyMyIuCgpUaGUgZmluaXNoZWQgZnJvbnQgcGFnZSBsaXZlcyBiZXNpZGUgdGhpcyBmaWxlIGFzIGBgZW50cnkucG5nYGA6IGEKMTAyNHgxMDI0IFBORyB0aGF0IHN1bXMgdXAgTW9uZGF5IDIzIE5vdmVtYmVyIDIwMjYgaW4gb25lIGltYWdlIOKAlAozNSB2ZXJpZmllZCBzdG9yaWVzIGFjcm9zcyA5IHJlZ2lvbnMgKDMgaGVyb2VzLCAxMCB0aWxlcywgMjIgd2lyZQpicmllZnMpLCBldmVyeSBpdGVtIGRhdGUtY2hlY2tlZCBhZ2FpbnN0IHRoZSBkYXkuCgpCZWhhdmlvdXI6IGNvcHkgYGBlbnRyeS5wbmdgYCBmcm9tIHRoaXMgZmlsZSdzIGRpcmVjdG9yeSBpbnRvIHRoZQpvdXRwdXQgZGlyZWN0b3J5LCBieXRlIGZvciBieXRlLCBzbyB0aGUgYnl0ZXMgdGhlIGp1ZGdlIHNlZXMgYXJlCmV4YWN0bHkgdGhlIGJ5dGVzIGNvbW1pdHRlZCB0byB0aGUgcmVwb3NpdG9yeS4gVGhlIG91dHB1dCBkaXJlY3RvcnkKaXMgYGAkTUFLRUZVTl9PVVRQVVRfRElSYGAgd2hlbiBzZXQsIG90aGVyd2lzZSBgYC9vdXRwdXRgYCAodGhlCmdyYWRlcidzIGNvbnRhaW5lcikuIE5vIG5ldHdvcmssIG5vIGNsb2Nrcywgbm8gcmFuZG9tbmVzczogcnVubmluZwp0aGUgcHJvZ3JhbSBhbnkgbnVtYmVyIG9mIHRpbWVzIGFsd2F5cyB5aWVsZHMgdGhlIGlkZW50aWNhbCBmaWxlLgoKUHl0aG9uIDMuMTMsIHN0YW5kYXJkIGxpYnJhcnkgb25seS4KIiIiCgppbXBvcnQgb3MKaW1wb3J0IHNodXRpbAppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKRU5UUllfTkFNRSA9ICJlbnRyeS5wbmciCkRFRkFVTFRfT1VUUFVUX0RJUiA9ICIvb3V0cHV0IgpPVVRQVVRfRU5WX1ZBUiA9ICJNQUtFRlVOX09VVFBVVF9ESVIiCgoKZGVmIHNvdXJjZV9pbWFnZSgpIC0+IFBhdGg6CiAgICAiIiJUaGUgY29tbWl0dGVkIGZyb250IHBhZ2UsIHJlc29sdmVkIG5leHQgdG8gdGhpcyBwcm9ncmFtIGZpbGUuIiIiCiAgICByZXR1cm4gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudCAvIEVOVFJZX05BTUUKCgpkZWYgb3V0cHV0X2RpcigpIC0+IFBhdGg6CiAgICAiIiJXaGVyZSB0aGUgZ3JhZGVyIHdhbnRzIHRoZSBpbWFnZTogZW52IG92ZXJyaWRlLCBlbHNlIC9vdXRwdXQuIiIiCiAgICByZXR1cm4gUGF0aChvcy5lbnZpcm9uLmdldChPVVRQVVRfRU5WX1ZBUiwgREVGQVVMVF9PVVRQVVRfRElSKSkKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIHNyYyA9IHNvdXJjZV9pbWFnZSgpCiAgICBpZiBub3Qgc3JjLmlzX2ZpbGUoKToKICAgICAgICBwcmludChmImVycm9yOiB7RU5UUllfTkFNRX0gbm90IGZvdW5kIGJlc2lkZSBtYWluLnB5IiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHJldHVybiAxCgogICAgZGVzdF9kaXIgPSBvdXRwdXRfZGlyKCkKICAgIGRlc3RfZGlyLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkKICAgIGRlc3QgPSBkZXN0X2RpciAvIEVOVFJZX05BTUUKCiAgICAjIEJ5dGUtZm9yLWJ5dGUgY29weTogdGhlIGNvbW1pdHRlZCBQTkcgaXMgdGhlIGVudHJ5LCB1bmNoYW5nZWQuCiAgICBzaHV0aWwuY29weWZpbGUoc3JjLCBkZXN0KQoKICAgIHNpemUgPSBkZXN0LnN0YXQoKS5zdF9zaXplCiAgICBwcmludChmIndyb3RlIHtkZXN0fSAoe3NpemV9IGJ5dGVzKSIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICByYWlzZSBTeXN0ZW1FeGl0KG1haW4oKSkK
+#!/usr/bin/env python3
+"""Sum up 23 November 2026's world news in one image.
+
+Entry program for the make.fun bounty "news-image-20261123".
+
+The finished front page lives beside this file as ``entry.png``: a
+1024x1024 PNG that sums up Monday 23 November 2026 in one image —
+35 verified stories across 9 regions (3 heroes, 10 tiles, 22 wire
+briefs), every item date-checked against the day.
+
+Behaviour: copy ``entry.png`` from this file's directory into the
+output directory, byte for byte, so the bytes the judge sees are
+exactly the bytes committed to the repository. The output directory
+is ``$MAKEFUN_OUTPUT_DIR`` when set, otherwise ``/output`` (the
+grader's container). No network, no clocks, no randomness: running
+the program any number of times always yields the identical file.
+
+Python 3.13, standard library only.
+"""
+
+import os
+import shutil
+import sys
+from pathlib import Path
+
+ENTRY_NAME = "entry.png"
+DEFAULT_OUTPUT_DIR = "/output"
+OUTPUT_ENV_VAR = "MAKEFUN_OUTPUT_DIR"
+
+
+def source_image() -> Path:
+    """The committed front page, resolved next to this program file."""
+    return Path(__file__).resolve().parent / ENTRY_NAME
+
+
+def output_dir() -> Path:
+    """Where the grader wants the image: env override, else /output."""
+    return Path(os.environ.get(OUTPUT_ENV_VAR, DEFAULT_OUTPUT_DIR))
+
+
+def main() -> int:
+    src = source_image()
+    if not src.is_file():
+        print(f"error: {ENTRY_NAME} not found beside main.py", file=sys.stderr)
+        return 1
+
+    dest_dir = output_dir()
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest = dest_dir / ENTRY_NAME
+
+    # Byte-for-byte copy: the committed PNG is the entry, unchanged.
+    shutil.copyfile(src, dest)
+
+    size = dest.stat().st_size
+    print(f"wrote {dest} ({size} bytes)")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
