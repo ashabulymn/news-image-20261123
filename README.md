@@ -1,1 +1,31 @@
-IyBNb25kYXkgMjMgTm92ZW1iZXIgMjAyNiBpbiBPbmUgSW1hZ2Ug4oCUIDM1IFN0b3JpZXMsIDkgUmVnaW9ucwoKIVtDb21wZXRpdGlvbl0oaHR0cHM6Ly9tYWtlLmZ1bi9iYWRnZS9uZXdzLWltYWdlLTIwMjYxMTIzLnN2ZykKIVtSYW5rXShodHRwczovL21ha2UuZnVuL2JhZGdlL25ld3MtaW1hZ2UtMjAyNjExMjMvYXNoYWJ1bHltbi9uZXdzLWltYWdlLTIwMjYxMTIzL3Jhbmsuc3ZnKQohW1Jld2FyZF0oaHR0cHM6Ly9tYWtlLmZ1bi9iYWRnZS9uZXdzLWltYWdlLTIwMjYxMTIzL2FzaGFidWx5bW4vbmV3cy1pbWFnZS0yMDI2MTEyMy9yZXdhcmQuc3ZnKQoKRW50cnkgZm9yIHRoZSBtYWtlLmZ1biBib3VudHkgKipbU3VtIHVwIDIzIE5vdmVtYmVyJ3Mgd29ybGQgbmV3cyBpbiBvbmUgaW1hZ2VdKGh0dHBzOi8vbWFrZS5mdW4vYm91bnR5L25ld3MtaW1hZ2UtMjAyNjExMjMpKiogYnkgQGFzaGFidWwteWFtaW4uCgojIyBUaGUgaW1hZ2UKCk9uZSAxMDI0w5cxMDI0IGZyb250IHBhZ2UgdGhhdCBzdW1zIHVwICoqTW9uZGF5IDIzIE5vdmVtYmVyIDIwMjYqKjoKCi0gKiozIGhlcm9lcyoqIOKAlCB0aGUgRHltZXIgdG9sbCByaXNpbmcgdGhyb3VnaCBNb25kYXkncyByZXNjdWUgKDExIGRlYWQpLCB0aGUgQ09QMzEgYmFja2xhc2ggYWZ0ZXIgdGhlIHRhbGtzIGNsb3NlZCB3aXRoIG5vIGRlYWwsIGFuZCBJbmRvbmVzaWEgY29uZmlybWluZyAyNCBkZWFkIGluIHRoZSBDaWthbmRlIGZhY3RvcnkgZmlyZQotICoqMTAgdGlsZXMqKiwgb25lIGdpYW50IGZhY3QgZWFjaCDigJQgTkFUTydzIGVtZXJnZW5jeSBjb3VuY2lsIG92ZXIgMyBLaC0xMDEgbWlzc2lsZXMgaW4gUG9sYW5kLCB0aGUgS29zcGkncyDiiJI0JSBNb25kYXksIDIyIEhvcm11eiBhdHRhY2tzIGluIE5vdmVtYmVyLCB1bnJlc3QgYWNyb3NzIDI4IEJhbmdsYWRlc2ggZGlzdHJpY3RzLCBTaHVyaSBDYXN0bGUgcmVvcGVuaW5nIGFmdGVyIDcgeWVhcnMsIHRoZSBXSE8ncyBFYm9sYSBwbGVhLCBXZWxsaW5ndG9uJ3MgZHJhd24gVGVzdCAoNzIwLzkpLCBWYWFyJ3MgJDQuNDNCIGRlYWwsIDkgc2hvdCBpbiBDYWxpZm9ybmlhLCBJbmRpYSdzIHJlY29yZCAkMTNCIGluZmxvdwotICoqMjIgd2lyZSBicmllZnMqKiwgYSBVVEMgdGltZWxpbmUgb2YgdGhlIGRheSwgYW5kIGEgZG90dGVkIHdvcmxkIG1hcCB3aG9zZSAzNSBudW1iZXJlZCBwaW5zIG1hdGNoIHRoZSAzNSBzdG9yaWVzCi0gKio5IHJlZ2lvbnMsIG1pbmltdW0gMyBzdG9yaWVzIGVhY2gqKiDigJQgRXVyb3BlIDYgwrcgTWlkZGxlIEVhc3QgNCDCtyBBZnJpY2EgNCDCtyBTb3V0aCBBc2lhIDMgwrcgRWFzdCBBc2lhIDQgwrcgU0UgQXNpYSA0IMK3IEFtZXJpY2FzIDMgwrcgT2NlYW5pYSA0IMK3IEdsb2JhbCAzCgpFdmVyeSBzdG9yeSBjYXJyaWVzIGEgdmVyaWZpY2F0aW9uIGJhZGdlIChDT05GSVJNRUQgLyBPRkZJQ0lBTCAvIFJFUE9SVEVEIC8gQ0xBSU0pIGFuZCBhIG5hbWVkIHNvdXJjZS4gQSBEQVRFIENIRUNLIGJveCBvbiB0aGUgcGFnZSBpdHNlbGYgZXhjbHVkZXMgdGhlIGRheSdzIHRyYXBzOiBzdG9yaWVzIGZpbGVkIE1vbmRheSB0aGF0IGFjdHVhbGx5IGhhcHBlbmVkIFN1bmRheSAodGhlIFNlb3VsIG1pbmlzdGVyJ3MgcmVzaWduYXRpb24sIHRoZSBEZW1vY3JhdHMnIDI1OHRoIEhvdXNlIHNlYXQpIG9yIFRodXJzZGF5ICh0aGUgSUNKJ3MgTXlhbm1hciBnZW5vY2lkZSBydWxpbmcpLgoKIyMgUnVuIGl0CgpgYGBiYXNoCnB5dGhvbjMgbWFpbi5weSAgICAgICAgICAgICMgd3JpdGVzIC9vdXRwdXQvZW50cnkucG5nCk1BS0VGVU5fT1VUUFVUX0RJUj1vdXQgcHl0aG9uMyBtYWluLnB5ICAgIyBvciBhIGRpcmVjdG9yeSBvZiB5b3VyIGNob2ljZQpgYGAKCmBtYWluLnB5YCAoUHl0aG9uIDMuMTMsIHN0YW5kYXJkIGxpYnJhcnkgb25seSwgbm8gbmV0d29yaykgY29waWVzIHRoZSBjb21taXR0ZWQgYGVudHJ5LnBuZ2AgYmVzaWRlIGl0IGludG8gdGhlIG91dHB1dCBkaXJlY3RvcnksIGJ5dGUgZm9yIGJ5dGUg4oCUIHR3byBydW5zIGFsd2F5cyBwcm9kdWNlIGlkZW50aWNhbCBieXRlcy4KCiMjIExpY2Vuc2UKCk1JVCDigJQgc2VlIFtMSUNFTlNFXShMSUNFTlNFKS4K
+# Monday 23 November 2026 in One Image — 35 Stories, 9 Regions
+
+![Competition](https://make.fun/badge/news-image-20261123.svg)
+![Rank](https://make.fun/badge/news-image-20261123/ashabulymn/news-image-20261123/rank.svg)
+![Reward](https://make.fun/badge/news-image-20261123/ashabulymn/news-image-20261123/reward.svg)
+
+Entry for the make.fun bounty **[Sum up 23 November's world news in one image](https://make.fun/bounty/news-image-20261123)** by @ashabul-yamin.
+
+## The image
+
+One 1024×1024 front page that sums up **Monday 23 November 2026**:
+
+- **3 heroes** — the Dymer toll rising through Monday's rescue (11 dead), the COP31 backlash after the talks closed with no deal, and Indonesia confirming 24 dead in the Cikande factory fire
+- **10 tiles**, one giant fact each — NATO's emergency council over 3 Kh-101 missiles in Poland, the Kospi's −4% Monday, 22 Hormuz attacks in November, unrest across 28 Bangladesh districts, Shuri Castle reopening after 7 years, the WHO's Ebola plea, Wellington's drawn Test (720/9), Vaar's $4.43B deal, 9 shot in California, India's record $13B inflow
+- **22 wire briefs**, a UTC timeline of the day, and a dotted world map whose 35 numbered pins match the 35 stories
+- **9 regions, minimum 3 stories each** — Europe 6 · Middle East 4 · Africa 4 · South Asia 3 · East Asia 4 · SE Asia 4 · Americas 3 · Oceania 4 · Global 3
+
+Every story carries a verification badge (CONFIRMED / OFFICIAL / REPORTED / CLAIM) and a named source. A DATE CHECK box on the page itself excludes the day's traps: stories filed Monday that actually happened Sunday (the Seoul minister's resignation, the Democrats' 258th House seat) or Thursday (the ICJ's Myanmar genocide ruling).
+
+## Run it
+
+```bash
+python3 main.py            # writes /output/entry.png
+MAKEFUN_OUTPUT_DIR=out python3 main.py   # or a directory of your choice
+```
+
+`main.py` (Python 3.13, standard library only, no network) copies the committed `entry.png` beside it into the output directory, byte for byte — two runs always produce identical bytes.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
